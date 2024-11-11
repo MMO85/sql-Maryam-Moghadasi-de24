@@ -1,1 +1,1 @@
-# sql-Maryam-Moghadasi-de24
+# SQL course using duckdb
